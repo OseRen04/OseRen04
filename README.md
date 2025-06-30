@@ -2,8 +2,6 @@
 
 ##  進行中のプロジェクト
 
-### <span style="display:inline-block; vertical-align:middle;"><img src="image/Profile_black.png" width="24" /></span> <span style="vertical-align:middle;"><strong>Game Talk</strong></span>
-
 - **Frontend**: [game-talk-frontend](https://github.com/nayu104/game-talk-frontend)  
 - **Backend**: [game-talk-backend](https://github.com/nayu104/game-talk-backend)  
 - ゲーマー向けチャットアプリ。現在、UIとAPIを改良中。
