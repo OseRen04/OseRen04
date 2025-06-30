@@ -13,8 +13,6 @@
   ![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white)  
   ![Express](https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white)
 
----
-
 ### <span style="display:inline-block; vertical-align:middle;"><img src="image/Icon.png" width="24" /></span> <span style="vertical-align:middle;"><strong>TechCard</strong></span>
 
 - [TechCard](https://github.com/nayu104/TechCard)  
