@@ -8,7 +8,7 @@
 - **Backend**: [game-talk-backend](https://github.com/nayu104/game-talk-backend)  
 - ゲーマー向けチャットアプリ。現在、UIとAPIを改良中。
 - 使用技術：
- ![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white)  ![Express](https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white)
+<p>![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white)  ![Express](https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white)</p>
 
 
 ### <span style="display:inline-block; vertical-align:middle;"><img src="image/Icon.png" width="24" /></span> <span style="vertical-align:middle;"><strong>TechCard</strong></span>
