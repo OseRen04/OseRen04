@@ -9,4 +9,4 @@
 
 ### <img src="image/Icon.png" width="25" /> TechCard
 - [TechCard](https://github.com/nayu104/TechCard)
-- 技術者向けの電子名刺アプリ。Flutter版も開発中。
+- 技術者向けの電子名刺アプリ。スマホ版も開発予定。
