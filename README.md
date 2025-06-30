@@ -1,2 +1,9 @@
-Hi👋
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nayu104&layout=donut&theme=transparent&hide=Makefile,Rust,Jupyter%20Notebook,Shell,MDX,CMake,Dockerfile,TypeScript,SCSS,Swift)](https://github.com/nayu104)
+<p align="center">
+  Hi 👋
+</p>
+
+<p align="center">
+  <a href="https://github.com/nayu104">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nayu104&layout=donut&theme=transparent&hide=Makefile,Rust,Jupyter%20Notebook,Shell,MDX,CMake,Dockerfile,TypeScript,SCSS,Swift" />
+  </a>
+</p>
