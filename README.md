@@ -1,8 +1,8 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nayu104&layout=donut&theme=transparent&hide=Makefile,Rust,Jupyter%20Notebook,Shell,MDX,CMake,Dockerfile,TypeScript,SCSS,Swift)](https://github.com/nayu104)
 
-##　進行中のプロジェクト
+##  進行中のプロジェクト
 
-###　アプリ名：game-talk（仮）
+###  アプリ名：game-talk（仮）
 
 - **Frontend**: [game-talk-frontend](https://github.com/nayu104/game-talk-frontend)  
 - **Backend**: [game-talk-backend](https://github.com/nayu104/game-talk-backend)  
