@@ -2,11 +2,15 @@
 
 ##  進行中のプロジェクト
 
-### <img src="image/Profile_black.png" width="25" /> Game Talk
-- **Frontend**: [game-talk-frontend](https://github.com/nayu104/game-talk-frontend)
-- **Backend**: [game-talk-backend](https://github.com/nayu104/game-talk-backend)
+### <span style="display:inline-block; vertical-align:middle;"><img src="image/Profile_black.png" width="24" /></span> <span style="vertical-align:middle;"><strong>Game Talk</strong></span>
+
+- **Frontend**: [game-talk-frontend](https://github.com/nayu104/game-talk-frontend)  
+- **Backend**: [game-talk-backend](https://github.com/nayu104/game-talk-backend)  
 - ゲーマー向けチャットアプリ。現在、UIとAPIを改良中。
 
-### <img src="image/Icon.png" width="25" /> TechCard
-- [TechCard](https://github.com/nayu104/TechCard)
+---
+
+### <span style="display:inline-block; vertical-align:middle;"><img src="image/Icon.png" width="24" /></span> <span style="vertical-align:middle;"><strong>TechCard</strong></span>
+
+- [TechCard](https://github.com/nayu104/TechCard)  
 - 技術者向けの電子名刺アプリ。スマホ版も開発予定。
