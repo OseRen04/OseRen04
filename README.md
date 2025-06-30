@@ -5,7 +5,4 @@
 
 ## 🏆 Achievement
 
-[![nayu104's GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nayu104&theme=github_dark)](https://github.com/nayu104)
-
-[![nayu104's Rank](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=nayu104&theme=github_dark)](https://github.com/nayu104)
-
+[![nayu104's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nayu104&show_icons=true&rank_icon=percentile&theme=dark)](https://github.com/nayu104)
