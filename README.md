@@ -15,8 +15,6 @@
 
 <details>
   
-![Top Language](https://img.shields.io/github/languages/top/nayu104/REPO)
-![Language Count](https://img.shields.io/github/languages/count/nayu104/REPO)
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nayu104&layout=compact)
 
 
