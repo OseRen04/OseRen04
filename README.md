@@ -6,5 +6,5 @@
 
 https://github.com/user-attachments/assets/66f53b4a-8733-4a14-8815-48519aafcbc8
 
-**猫**
+<p>🐈</p>
 <img width="223" height="168" alt="スクリーンショット 2026-01-18 15 55 10" src="https://github.com/user-attachments/assets/36366f9d-649c-4655-8dab-31ee18663fb8" />
