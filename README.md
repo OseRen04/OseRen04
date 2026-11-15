@@ -1,9 +1,17 @@
-# Hello, I'm ren!
+# Hello, I'm Ren!
 
-### Welcome to my GitHub profile! Here are some of my projects and interests.
+### Welcome to my GitHub profile!
+Here are some of my projects and interests.
 
 ---
 
 ### Projects
-- 💡[ideaPush](https://github.com/OseRen04/ideaPushSkill)
-  - ChatGPT上でアイデアを整理・仕様書化し、GitHubで管理するスキル. 保存されたアイデアのうち, 開発が許可されたものを対象に, Codexが深夜などに自動でissueを生成し, コーディングを実行します.
+
+#### [ideaPush](https://github.com/OseRen04/ideaPushSkill)
+
+ChatGPT上でアイデアを整理・仕様書化し、GitHubで一元管理するスキル。
+
+**主な機能**
+- **アイデア整理**：ChatGPT上でアイデアを整理・仕様書化
+- **GitHub管理**：複数のアイデアをGitHubで一元管理
+- **自動開発**：開発が許可されたアイデアを対象に、Codexが深夜などにIssueを自動生成し、コーディングを実行
