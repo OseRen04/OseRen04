@@ -6,10 +6,6 @@
 
 ### Projects
 
-**ideaPush** は、ChatGPT上でアイデアを整理・仕様書化し、GitHubで一元管理するためのスキルです。
+ChatGPT上でアイデアを整理・仕様書化し、GitHubで一元管理するスキル。保存されたアイデアのうち、開発が許可されたものを対象に、Codexが深夜に自動でコーディングを実行します。
 
-GitHubに保存された複数のアイデアをAIが監視し、開発が許可されたアイデアに対して、深夜に自動でコーディングを実行します。
-
-~~また、開発ワークフローはプロジェクトごとにカスタマイズできます。~~
-
-- [ideaPush](https://github.com/OseRen04/ideaPushSkill)
+- 💡[ideaPush](https://github.com/OseRen04/ideaPushSkill)
