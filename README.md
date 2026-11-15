@@ -2,6 +2,8 @@
 
 ### Welcome to my GitHub profile! Here are some of my projects and interests.
 
+---
+
 ### Projects
 
 **ideaPush** は、ChatGPT上でアイデアを整理・仕様書化し、GitHubで一元管理するためのスキルです。
