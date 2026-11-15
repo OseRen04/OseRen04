@@ -8,7 +8,7 @@ Here are some of my projects and interests.
 ### Projects
 
 #### 💡[ideaPush](https://github.com/OseRen04/ideaPushSkill)
-ChatGPT上でアイデアを整理・仕様書化し, GitHubで一元管理するスキル. 
+ChatGPT上でアイデアを整理・仕様書化し, GitHubで一元管理+自動コーディングするスキル. 
 
 **できること**
 - **アイデア整理**：ChatGPT上でアイデアを整理・仕様書化
